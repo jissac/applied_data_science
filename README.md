@@ -1,5 +1,5 @@
 # Applied Data Science with Python
-Coursera course: https://www.coursera.org/specializations/data-science-python
+5-Course Coursera specialization: https://www.coursera.org/specializations/data-science-python
 
 - Course 1: [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python) 
 - Course 2: [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting?specialization=data-science-python)
